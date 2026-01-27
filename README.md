@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Nishanth<br>I am student at Rgukt Rk valley<br>I am from the Branch AI & ML<br>I am currently learninng ai courses and i am very enthusiastic to learn new things
+I am Nishanth, a student at RGUKT RK Valley, pursuing a degree in Artificial Intelligence and Machine Learning. I am currently learning AI-related courses and am highly enthusiastic about exploring and mastering new technologies.
 
 
 ## 🌐 Socials:
