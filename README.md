@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am Nishanth, a student at RGUKT RK Valley, pursuing a degree in Artificial Intelligence and Machine Learning. I am currently learning AI-related courses and am highly enthusiastic about exploring and mastering new technologies.
+👋 Hi, I'm Nishanth
+🎓 AIML Student at RGUKT RK Valley
+🤖 Interested in Artificial Intelligence, Machine Learning, and Data Science
+💻 Building projects with Python and continuously learning new technologies
+🚀 Always curious, always improving
 
 
 ## 🌐 Socials:
